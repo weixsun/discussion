@@ -45,7 +45,7 @@ Set-Cookie: session_id=abc123;
 
 ### SameSite
 
-cookies机制一直被认为是不安全的，随着技术的更新，界内一直在完善cookies的安全机制，`SameSite`属性是谷歌浏览器为完善cookies安全机制的出的特性之一。
+cookies机制一直被认为是不安全的，随着技术的更新，界内一直在完善cookies的安全机制，`SameSite`属性是谷歌浏览器为完善cookies安全机制出的特性之一。
 
 
 Cookie 的`SameSite`属性用来限制第三方 Cookie的行为。
